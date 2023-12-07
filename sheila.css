@@ -1,0 +1,12 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+h4{
+    color: rgb(255, 45, 45);
+}
+.cards img{
+    display: flex;
+    float: inline-start;
+    flex-direction: row;
+}
